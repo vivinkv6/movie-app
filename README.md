@@ -4,10 +4,10 @@ Create movie Cards using React JS
 
 ## Technologies and Version
 
-React : ^18.2.0
-React Axios : ^2.0.6
-react-router-dom : ^6.4.1
-API : <a href="https://www.themoviedb.org/">TMDB</a>
+React : ^18.2.0<br>
+React Axios : ^2.0.6<br>
+react-router-dom : ^6.4.1<br>
+API : <a href="https://www.themoviedb.org/">TMDB</a><br>
 ### `npm start`
 
 Runs the app in the development mode.\
