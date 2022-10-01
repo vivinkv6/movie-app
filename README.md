@@ -1,11 +1,13 @@
-# Getting Started with Create React App
+# React Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create movie Cards using React JS
 
-## Available Scripts
+## Technologies and Version
 
-In the project directory, you can run:
-
+React : ^18.2.0
+React Axios : ^2.0.6
+react-router-dom : ^6.4.1
+API : <a href="https://www.themoviedb.org/">TMDB</a>
 ### `npm start`
 
 Runs the app in the development mode.\
