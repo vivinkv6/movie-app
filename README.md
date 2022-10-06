@@ -1,6 +1,6 @@
 # React Movie App
 
-Create movie Cards using React JS
+Display movie Cards using React JS and TMDB API
 
 ## Website Link
 <a href="https://movie-app-w14k.vercel.app/">https://movie-app-w14k.vercel.app/</a>
