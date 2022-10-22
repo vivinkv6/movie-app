@@ -109,7 +109,7 @@ function NavBar({query,setQuery}) {
           <MenuItem value={10}> <Link to="/" className='text-decoration-none text-light'>Now Playing</Link></MenuItem>
           <MenuItem value={20}><Link to="popular" className='text-decoration-none text-light'>Popular</Link></MenuItem>
           <MenuItem value={30}> <Link to="upcoming" className='text-decoration-none text-light'>upcoming</Link></MenuItem>
-          <MenuItem value={40}> <Link to="toprated" className='text-decoration-none text-light'>toprated</Link></MenuItem>
+          <MenuItem value={40}> <Link to="toprated" className='text-decoration-none text-light'>Top rated</Link></MenuItem>
           <MenuItem value={50}>  <Link to="search" className='text-decoration-none text-light'>Search</Link></MenuItem>
         </Select>
       </FormControl>
