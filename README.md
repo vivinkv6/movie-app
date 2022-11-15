@@ -3,7 +3,7 @@
 Display movie Cards using React JS and TMDB API
 
 ## Website Link
-<a href="https://movie-app-w14k.vercel.app/">https://movie-app-w14k.vercel.app/</a>
+<a href="https://tmdb-movies-app.vercel.app/">https://tmdb-movies-app.vercel.app/</a>
 
 ## Technologies and Version
 
