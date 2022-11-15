@@ -9,8 +9,8 @@ import InputBase from '@mui/material/InputBase';
 import SearchIcon from '@mui/icons-material/Search';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import TheatersIcon from '@mui/icons-material/Theaters';
-import { Button } from '@mui/material';
-import { Outlet, Link } from "react-router-dom";
+
+import { Link } from "react-router-dom";
 
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
