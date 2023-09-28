@@ -28,8 +28,10 @@ function Banner({ populars, about, setAbout }) {
 
 
             <button type="button" className="btn " data-bs-toggle="modal" data-bs-target="#exampleModal" >
+              <center>
               <img src={`https://image.tmdb.org/t/p/w500${value.poster_path === null ? value.backdrop_path : value.poster_path}`} className="d-block w-100" alt="Not found" />
-            </button>
+           </center>
+              </button>
             </div>
             </div>
           </div>
